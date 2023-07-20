@@ -11,4 +11,12 @@ The website has various features like voice search, recipe audiobook, multi-ling
 
 Thank you for using Grubhub Recipe Platform, and we hope you enjoy discovering new recipes!
 
+## To deploy the project on your local machine:
 
+1. Install xampp server.
+2. Download the repository.
+3. Go to localhost/phpmyadmin/ and import the dataset provided under the file name ‘grubhub.sql’.
+4. Go to c:/xampp/htdocs on your machine and create a new folder (eg.: grubhub).
+5. Inside this folder, add all the files from the repository downloaded.
+6. Start Xampp Apache and MySQL module in Xampp control panel.
+7. Go to the browser and type: localhost/<folder_name>/ and the home page will appear and you can explore the site.
